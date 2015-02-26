@@ -1,0 +1,12 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	color: white;
+	background-color: #243665;
+	font-size: 20px;
+	font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+}
+
+#block {
+	padding: 20px;
+}

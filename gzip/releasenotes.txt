@@ -1,0 +1,14 @@
+GZIP JAVASCRIPT + CSS RELEASE NOTES
+© Jason Stockton 2008
+http://mooglemedia.com.au
+http://thewebdevelopmentblog.com/
+
+V1.1.1 - 03/12/2008
+- Added easy way to changing caching period via the address.
+- Added reporting of files that couldn't be found.
+
+V1.1 - 02/11/2008
+- Restricted script to only access files with a ".js" or ".css" extension. Fixes a potential security hole.
+- Added automatic detection of css and js files. No longer requires parsing of css variable.
+- Added $expiry variable for quick changing of expiry days.
+- Added checking for whether or not a particular file exists
