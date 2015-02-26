@@ -2,7 +2,7 @@ Tiny Invasion
 ===================
 View the site [here][1].
 
-The site was meant to be a simple portfolio type site showcasing music for movies and television. 
+This site was meant to be a simple portfolio type site showcasing music for movies and television. 
 
 It is an implementation of the  [ FullPage.js ][2]responsive jQuery plugin. This Plugin is actually quite powerful and intuitive. It acts more as a responsive frame work than a simple slider plugin.
 
