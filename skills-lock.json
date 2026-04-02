@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "phaser-best-practices": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "da5012faabdfa9cebf589dc089acb6d06c97cdf0b440f072382de678a66c2733"
+    },
+    "phaser-design-patterns": {
+      "source": "agusstingalvan/gamedev-skills",
+      "sourceType": "github",
+      "computedHash": "da9deb288e7604e0e535561d482c0b633bae1ac04297ffe77bf0a0f24a1c75d6"
+    },
+    "phaser-gamedev": {
+      "source": "chongdashu/phaserjs-tinyswords",
+      "sourceType": "github",
+      "computedHash": "7c189dc3905cea3c83b593bdeaba32d134dd3e3da70e7b7663c1e1612def64bf"
+    }
+  }
+}
